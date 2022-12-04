@@ -1,4 +1,7 @@
 # Simple-HTTP-Server-with-Requests-Logging-In-SqliteDB
+
+This code was generated using OpenAI ChatGPT.
+
 A simple http server written in python that logs requests to a sqlite DB on local disk.
 It can log following data
 - request method
