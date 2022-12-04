@@ -19,3 +19,5 @@ Supports the following methods
 - DELETE
 
 Stores the logs into a sqlite db file on local disk.
+
+Useful for running honeypot and logging incoming malcious requests
